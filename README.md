@@ -19,7 +19,7 @@ Configuration settings are sourced from a `.env` file and a config module. Ensur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rizzolib/ordinal-marketplace.git 
+    git clone https://github.com/ilertha/ordinal-marketplace.git 
     cd ordinal-marketplace
     ```
 
