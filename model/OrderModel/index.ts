@@ -6,8 +6,8 @@ const OrderSchema = new mongoose.Schema({
   sellerPaymentAddress: { type: String, required: true },
   sellerOrdinalPublicKey: { type: String, required: true },
   status: { type: String, required: true },
-  ordinalUtxoTxId: { type: String, required: true },
-  ordinalUtxoVout: { type: Number, requred: true },
+  // ordinalUtxoTxId: { type: String, required: true },
+  // ordinalUtxoVout: { type: Number, requred: true },
   serviceFee: { type: Number },
   signedListingPSBT: { type: String, required: true },
 });
